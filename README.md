@@ -1,6 +1,6 @@
 This project is a groupwork with 2 members (Shree and me) for the cleaning, tidying, and analyzing with a big dataset with Dask.
 
-In this project, we will be working wiht dask library on a over 1.5GB dataset. The goal is to extract as mush as information we can.
+In this project, we will be working with dask library on a over 1.5GB dataset. The goal is to extract as mush as information we can.
 
 This dataset contains scheduled and actual departure and arrival times reported by certified U.S. air carriers that account for at least one percent of domestic scheduled passenger revenues. The data is collected by the Office of Airline Information, Bureau of Transportation Statistics (BTS).
 
